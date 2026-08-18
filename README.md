@@ -1,9 +1,19 @@
+<div align="center">
+
 # NexusMart 🛒
+
+[![GitHub stars](https://img.shields.io/github/stars/Inshal-1/nexusmart?style=for-the-badge&color=06b6d4)](https://github.com/Inshal-1/nexusmart/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Inshal-1/nexusmart?style=for-the-badge&color=06b6d4)](https://github.com/Inshal-1/nexusmart/network/members)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/inshalyousaf)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+**A modern, multi-vendor e-commerce platform built with Next.js and Prisma. It empowers users to both shop for products and set up their own digital storefronts to sell directly to consumers.**
+
+<br />
 
 ![NexusMart Home Page](assets/screenshot-home.png)
 
-NexusMart is a modern, multi-vendor e-commerce platform built with Next.js and Prisma. It empowers users to both shop for products and set up their own digital storefronts to sell directly to consumers.
-
+</div>
 
 ## 🚀 Features
 
@@ -84,11 +94,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## 🤝 Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## 👤 About the Developer
-
-**Muhammad Inshal Yousaf** is a passionate DevSecOps Engineer based in Pakistan, with expertise in Cloud Architecture, Platform Engineering, and Site Reliability Engineering (SRE).
-
-- **LinkedIn:** [linkedin.com/in/inshalyousaf](https://linkedin.com/in/inshalyousaf)
-- **GitHub:** [github.com/Inshal-1](https://github.com/Inshal-1)
-- **Email:** inshalyousaf1@gmail.com
