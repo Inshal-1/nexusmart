@@ -84,3 +84,11 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## 🤝 Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## 👤 About the Developer
+
+**Muhammad Inshal Yousaf** is a passionate DevSecOps Engineer based in Pakistan, with expertise in Cloud Architecture, Platform Engineering, and Site Reliability Engineering (SRE).
+
+- **LinkedIn:** [linkedin.com/in/inshalyousaf](https://linkedin.com/in/inshalyousaf)
+- **GitHub:** [github.com/Inshal-1](https://github.com/Inshal-1)
+- **Email:** inshalyousaf1@gmail.com
