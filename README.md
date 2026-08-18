@@ -1,6 +1,9 @@
 # NexusMart 🛒
 
+![NexusMart Home Page](assets/screenshot-home.png)
+
 NexusMart is a modern, multi-vendor e-commerce platform built with Next.js and Prisma. It empowers users to both shop for products and set up their own digital storefronts to sell directly to consumers.
+
 
 ## 🚀 Features
 
